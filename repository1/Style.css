@@ -1,0 +1,60 @@
+
+#container{
+	margin-top: 40px;
+	background-color: black;
+	border: 0px solid black;
+	
+}
+#navBar{
+	background-color: black;
+	
+	margin-top: ;
+}
+#navBar li{
+	color: white;
+	display: inline;
+	margin-left: 15px;
+	text-decoration-style: none;
+	transform-style: none;
+
+}
+#navBar li:hover{
+	color: red;
+}
+#navBar li a:hover{
+	color: red;
+}
+a{
+	color: white;
+	text-decoration: none; 
+	
+
+}
+#block1{
+	margin-top: 50px;
+	padding: 100px;
+	height: ;
+	width: ;
+	background-color: lightgrey;
+}
+#block2{
+	margin-top: -40px;
+	margin-left: 200px;
+	height: 60px;
+	width: 90px;
+	background-color: blue;
+}
+h3{
+	background-color: black;
+	padding: 8px;
+}
+
+#titre{list-style: none;}
+
+#titre li a{text-decoration: none; color: black;}
+
+ol{	margin-left: 50px;}
+
+#lect{font-style: italic; color: blue;}
+
+#titre .song-actuel a{color: red;}
