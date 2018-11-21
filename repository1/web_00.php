@@ -15,7 +15,7 @@
 			<li><a href="#playlist">Playlist</a></li>
 		</div>
 	</fieldset><br><br><br>
-	<div id="block1"><h2>Bienvenu sur ma page</h2></div>
+	<div id="block1"><h2>Bienvenu sur ma page, cliquer sur un titre pour lancé le lecteur</h2></div>
 	<div id="block2"></div>
 
 <br><br><br><br><br><br>
