@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mon site</title>
+	<title>Playlist en ligne</title>
 
 	<link rel="stylesheet" type="text/css" href="Style.css"/>
 
